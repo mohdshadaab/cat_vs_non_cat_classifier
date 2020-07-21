@@ -4,3 +4,5 @@ A 4 layer Neural Network to predict if an image is of cat or not.
 1. Run Build_the_Deep_Neural_Network.ipynb file.
 2. Create a folder named "images" and move the images into this folder for which you want to test the classifier.
 2. Run Cat_vs_non_cat(4 layer Neural Network).ipynb file.
+# Note 
+I have used scipy version 1.1.0 for this code. Alternatively, you can use Pillow for reading and resizing the pic.
